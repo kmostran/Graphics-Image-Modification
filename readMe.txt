@@ -16,5 +16,3 @@ Pressing h applies the horizontal sobel.
 Pressing v applies the vertical sobel.
 
 Pressing g repeatedly applies all of the blurs.
-
-And for the question, I don't have the best vision for colours but I believe the third greyscale looks the best as the white and black each seemed more defined. Different combinations exist becasue the intensities are not linearly related (as we found out from the written). Moreover, the cones in our eyes do not have equal quantity of each type.
